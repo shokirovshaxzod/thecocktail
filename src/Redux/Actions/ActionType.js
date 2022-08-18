@@ -1,0 +1,3 @@
+export const FETCH_COOCKTAILS = 'FETCH_COOCKTAILS';
+export const SINGL_COCKTAIL = 'SINGL_COCKTAIL';
+export const SAVE_DATA = 'SAVE_DATA';
